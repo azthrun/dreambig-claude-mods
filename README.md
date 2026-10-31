@@ -9,7 +9,7 @@ Local Claude Code plugin marketplace for personal mods.
 ## Install
 
 ```bash
-claude plugin marketplace add /Users/zchen7/Desktop/GitHub/claude-mods
+claude plugin marketplace add /path/to/dreambig-claude-mods
 ```
 
 ```bash
