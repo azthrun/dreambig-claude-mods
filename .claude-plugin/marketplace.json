@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Zhiyi Chen" },
+  "plugins": [
+    {
+      "name": "subagent-monitor",
+      "source": "./mods/subagent-monitor",
+      "description": "Side panel that opens when subagents spawn: each one's task, model, tokens and time, with session $ on top"
+    }
+  ]
+}

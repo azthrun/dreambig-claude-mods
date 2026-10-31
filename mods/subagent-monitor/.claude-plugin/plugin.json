@@ -1,0 +1,6 @@
+{
+  "name": "subagent-monitor",
+  "version": "0.2.0",
+  "description": "Side panel that opens when subagents spawn: each one's task, model, tokens and time, with session $ on top",
+  "types": "./types/index.d.ts"
+}
